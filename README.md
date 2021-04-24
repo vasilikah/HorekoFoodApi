@@ -1,9 +1,13 @@
 # HorekoFoodApi
 
 Technologies
+
 •	DotNet Core Api (.Net Core 3.1)
+
 •	Microsoft.EntityFrameworkCore.Sqlite Version=5.0.5
+
 •	Microsoft.EntityFrameworkCore.Sqlite Version=5.0.5
+
 •	Microsoft.EntityFrameworkCore Version=5.0.5
 
 
