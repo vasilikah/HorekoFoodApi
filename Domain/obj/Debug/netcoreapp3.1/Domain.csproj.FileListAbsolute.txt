@@ -1,0 +1,12 @@
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache
+C:\Users\vasilika.hasanoska.KIMTECMK\source\repos\HorekoFoodApi\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
